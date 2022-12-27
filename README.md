@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DU0N97TRAN
+- 👋 Hi, I’m @DU0N97RAN
 - 👀 I’m interested in Coding and Designing
 - 🌱 I’m currently learning ReactJS, NodeJs
 - 💞️ I’m looking to collaborate on Web Design project
